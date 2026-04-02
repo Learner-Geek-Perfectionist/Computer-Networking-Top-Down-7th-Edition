@@ -88,3 +88,5 @@ config.production.json
 # disallow docs directories anywhere in the repo
 /docs/
 **/docs/
+/doc/
+**/doc/
